@@ -99,12 +99,12 @@ body {
 }
 
 ::selection {
-  background: #0a3a2a;
+  background: #005b7a;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #0a3a2a;
+  background: #005b7a;
   color: #fff;
 }
 
@@ -126,12 +126,12 @@ body {
 }
 
 .section-heading h2 em {
-  color: #0a3a2a;
+  color: #005b7a;
   font-style: normal;
 }
 
 .section-heading h6 {
-  color: #0A3A2A;
+  color: #005b7a;
   font-size: 14px;
   text-transform: uppercase;
   font-weight: 600;
@@ -140,7 +140,7 @@ body {
 .main-button a {
   display: inline-block;
   background-color: #fff;
-  color: #0A3A2A;
+  color: #005b7a;
   font-size: 14px;
   font-weight: 500;
   height: 40px;
@@ -151,7 +151,7 @@ body {
 }
 
 .main-button a:hover {
-  background-color: #0A3A2A;
+  background-color: #005b7a;
   color: #fff;
 }
 
@@ -228,7 +228,7 @@ Pre-loader Style
   height: 16px;
   top: 12px;
   left: 15px;
-  background: #0A3A2A;
+  background: #005b7a;
   border-radius: 50%;
   -webkit-transform: translateX(0);
   transform: translateX(0);
@@ -251,7 +251,7 @@ Pre-loader Style
   width: 16px;
   height: 16px;
   margin-left: 16px;
-  background: #0A3A2A;
+  background: #005b7a;
   border-radius: 50%;
 }
 
